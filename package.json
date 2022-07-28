@@ -1,0 +1,11 @@
+{
+  "name": "imdsv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anon-red/imdsv2.git",
+  "author": "anon <anon@redbrick.space>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1183.0"
+  }
+}
